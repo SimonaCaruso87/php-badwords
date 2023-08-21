@@ -1,10 +1,3 @@
-<?php
-
-$cognome = $_GET['cognome'];
-$nome = $_GET['nome'];
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
